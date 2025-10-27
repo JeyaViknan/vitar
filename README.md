@@ -43,7 +43,3 @@ Visit → http://localhost:3000
 - Backend: Firebase Firestore  
 - AI: OpenAI API  
 - AR: WebXR / AR.js  
-
-## 📄 License
-MIT License © 2025 — VITAR Development Team
-
